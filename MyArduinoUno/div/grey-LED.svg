@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>grey-LED</title>
+ <defs>
+  <linearGradient id="linearGradient9413" x1="0.577235" x2="0.566583" xlink:href="#linearGradient6506" y1="1.1441" y2="0.154336"/>
+  <linearGradient id="linearGradient9409" x1="0.532859" x2="0.609143" xlink:href="#linearGradient5756" y1="0.057496" y2="0.846351"/>
+  <linearGradient id="linearGradient9407" x1="0.496181" x2="0.500488" xlink:href="#linearGradient5742" y1="0.019227" y2="1"/>
+  <linearGradient id="linearGradient6506">
+   <stop id="stop6508" offset="0" stop-opacity="0" stop-color="#ffffff"/>
+   <stop id="stop6510" offset="1" stop-opacity="0.87451" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5756">
+   <stop id="stop5758" offset="0" stop-color="#828282"/>
+   <stop id="stop5760" offset="1" stop-opacity="0.352941" stop-color="#929292"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5742">
+   <stop id="stop5744" offset="0" stop-color="#adadad"/>
+   <stop id="stop5746" offset="1" stop-color="#f0f0f0"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path d="m50.000103,25.153805c0,13.800022 -11.200008,24.999973 -24.999975,24.999973c-13.800024,0 -25.000035,-11.199951 -25.000035,-24.999973c0,-13.800026 11.200011,-24.999977 25.000035,-24.999977c13.799967,0 24.999975,11.199951 24.999975,24.999977z" id="path9325" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.8" fill="url(#linearGradient9407)"/>
+  <path d="m45.172905,25.148201c0,11.136772 -9.03875,20.175575 -20.175579,20.175575c-11.136889,0 -20.175337,-9.038803 -20.175337,-20.175575c0,-11.136651 9.038448,-20.175338 20.175337,-20.175338c11.136829,0 20.175579,9.038687 20.175579,20.175338z" id="path9327" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.8" fill="url(#linearGradient9409)"/>
+  <path d="m43.062004,25.153446c0,9.970306 -8.091568,18.062233 -18.061876,18.062233c-9.970306,0 -18.062174,-8.091927 -18.062174,-18.062233c0,-9.969711 8.091867,-18.061519 18.062174,-18.061519c9.970308,0 18.061876,8.091807 18.061876,18.061519z" id="path9329" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.8" fill="#bfbfbf"/>
+  <path transform="rotate(-36.9293, 15.5448, 15.1638)" d="m20.49568,15.164046c0,1.932128 -2.21781,3.500255 -4.950488,3.500255c-2.732675,0 -4.950401,-1.568127 -4.950401,-3.500255c0,-1.932055 2.217727,-3.500186 4.950401,-3.500186c2.732678,0 4.950488,1.56813 4.950488,3.500186z" id="path9331" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.8" fill="url(#linearGradient9413)"/>
+ </g>
+</svg>
