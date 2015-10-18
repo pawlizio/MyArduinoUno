@@ -1,9 +1,13 @@
-//Source code for the Arduino
+// Integrate the source code below to your Arduino UNO source code. 
+// Afterwards start the executable (MyArduinoUno.exe) located in the MyArduinoUno/bin/Debug folder, 
+// select the boud rate of 9600 and the serial port (USB port) to which you have connected your Arduino Uno at your computer.
+// Enjoy.
 
 
 
 void setup() {
-
+	// initialize the serial port:
+	Serial.begin(9600);
 }
 
 void loop() {
@@ -14,7 +18,7 @@ void loop() {
 
 void serialOUT(){
 	/*
-	This is my Protocol to transfer data:value between Arduino Uno and the serial port
+	This is my Protocol to transfer data:value between Arduino Uno and MyArduinoUno application using the serial port
 	http://www.netzmafia.de/skripten/hardware/Arduino/programmierung.html
 	http://www.arduino.cc/en/Reference/PortManipulation
 	*/
