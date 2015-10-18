@@ -124,6 +124,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="div\ArduinoUnoSteckplatine.png" />
+    <Content Include="div\Screenshot.JPG" />
+    <Content Include="MyArduinoUno.exe" />
     <None Include="div\Line-Chart-icon.png" />
     <None Include="div\grey_led.png" />
     <None Include="div\green_led.png" />

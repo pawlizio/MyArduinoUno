@@ -5,13 +5,6 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArduinoUno", "MyArduinoUno\MyArduinoUno.csproj", "{292DC617-E52A-4BA1-B8EA-E960BE5A0AFB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshot and Executive", "Screenshot and Executive", "{2AE766E2-F2D9-41F2-89F4-4912B1629C8E}"
-	ProjectSection(SolutionItems) = preProject
-		MyArduinoUno\bin\Debug\MyArduinoUno.exe = MyArduinoUno\bin\Debug\MyArduinoUno.exe
-		ReadMe.txt = ReadMe.txt
-		..\..\..\..\Desktop\Screenshot.JPG = ..\..\..\..\Desktop\Screenshot.JPG
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
